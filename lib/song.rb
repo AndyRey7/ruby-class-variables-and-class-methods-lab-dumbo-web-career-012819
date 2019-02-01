@@ -45,5 +45,5 @@ jay_z = Song.new("cool", "jay_z", "rap")
 coldplay =Song.new("parachutes", "coldplay", "rock")
 kol = Song.new("crazy", "kol", "alternative")
 
-binding.pry
+#binding.pry
 0
